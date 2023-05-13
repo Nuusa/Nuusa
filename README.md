@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nuusa
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...how to become a FRONT END DEVELOPER!
+- 👀 I’m interested in ...tech, ai, animals, biology, history, mysteries!
+- 🌱 I’m currently learning ...how to become a software developer!
 - 💞️ I’m looking to collaborate on ...??
 - 📫 How to reach me ...MSG
 
