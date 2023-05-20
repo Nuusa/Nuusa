@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nuusa
+- 👋 Hi, I’m Janessa
 - 👀 I’m interested in ...tech, ai, animals, biology, history, mysteries!
 - 🌱 I’m currently learning ...how to become a software developer!
 - 💞️ I’m looking to collaborate on ...??
